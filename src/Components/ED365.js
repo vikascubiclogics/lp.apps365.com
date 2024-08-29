@@ -144,7 +144,7 @@ function ED365() {
             <div>
                 <Availability />
             </div>
-            <div id="client" className="IdChanges"></div>
+            <div id="client" className="IdChangesIntegration"></div>
             <div className='HR_whitesection' id='client'>
                 <h1 className='HR_heading HR_MT' >Our Clients
                 </h1>

@@ -275,12 +275,12 @@ max-width: 30%;
 }
 .IdChanges{
   position: relative;
-  top: -60px;
+  top: -100px;
   visibility: hidden;
 }
 .IdChangesIntegration{
   position: relative;
-  top: -80px;
+  top: -100px;
   visibility: hidden;
 }
 
@@ -677,7 +677,7 @@ button{
 .HR_Section1LeftSide h1{
   font-family: Assistant, Sans-serif;
   font-weight: 900;
-  font-size: 2.6vw;
+  font-size: 3.2vw;
   color: var(--textBlackColor);
 }
 .HR_Section1LeftSide h3{
@@ -894,7 +894,7 @@ HR_Section1RightSide1{
   justify-content: center;
 }
 .HR_planprice{
-  background: #3446e6;
+  background: #333;
   margin: 0;
   padding: 2vw;
   color: #f0f0f0;
